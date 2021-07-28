@@ -1,0 +1,4 @@
+packages:
+- '.'
+- 'HDFC-intratrading.ui'
+- 'HDFC-intratrading.app'
